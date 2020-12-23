@@ -1,5 +1,7 @@
+
 ## Hii, I'm [Santheesh A!](http://my-portfolio-santheesh.herokuapp.com) 👋
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <div>
