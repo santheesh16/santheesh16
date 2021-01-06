@@ -46,7 +46,7 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/santheesh_a?style=social)](https://twitter.com/santheesh_a)
 [![Linkedin: imthepk](https://img.shields.io/badge/-santheesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santheesh-a-860a7614b/)](https://www.linkedin.com/in/santheesh-a-860a7614b/)
 [![GitHub iampawan](https://img.shields.io/github/followers/santheesh16?label=follow&style=social)](https://github.com/santheesh16)
-[![website](https://img.shields.io/badge/PortfolioWebsite-santheesh.me-2648ff?style=flat-square&logo=google-chrome)](https://santheesh.live/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-santheesh.live-2648ff?style=flat-square&logo=google-chrome)](https://santheesh.live/)
 
 
 **Languages and Tools:**  
