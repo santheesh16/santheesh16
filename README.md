@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://t.me/Santheesh62">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Santheesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 </div>
 <div>
