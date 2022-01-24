@@ -1,55 +1,42 @@
-
-## Hii, I'm [Santheesh A!](https://santheesh.live/) 👋
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<h3 align="center"> Hello there 👋, I'm</h3>
+<p align="center">
+<a href="https://santheesh16.github.io/santheesh-live/"><img align="center" width="50px" src="https://santheesh16.github.io/santheesh-live/static/media/logow.016d2872.webp"/></a>
+</p>
+<h2 align="center"> Santheesh A </h2>
 
-<div>
-  <a href="https://t.me/Santheesh62">
-  <img align="left" alt="Santheesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<p align="center">
+<a href="https://t.me/Santheesh62">
+  <img align="center" alt="Santheesh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-</div>
-<div>
 <a href="https://www.linkedin.com/in/santheesh-a-860a7614b/" target="_blank" rel="noopener noreferrer">
-  <img align="left" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/linkedin.svg" alt="linkedIn" width="20px" height="20px"/>
+  <img align="center" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/linkedin.svg" alt="linkedIn" width="30" height="20"/>
 </a>
-</div>
-<div>
- <a href="https://github.com/santheesh16" target="_blank" rel="noopener noreferrer">
-  <img align="left" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/github.svg" alt="GitHub" width="20px" height="20px"/>
+<a href="https://github.com/santheesh16" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/github.svg" alt="GitHub" width="20px" height="20px"/>
 </a>
-</div>
-<div>
 <a href="https://twitter.com/santheesh_a" target="_blank" rel="noopener noreferrer">
-  <img align="left" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/twitter.svg" alt="twitter" width="20px" height="20px"/>
+  <img align="center" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/twitter.svg" alt="twitter" width="20px" height="20px"/>
 </a>
-</div>
-<div>
 <a href="https://www.instagram.com/swagy_boyoffi_/" target="_blank" rel="noopener noreferrer">
-  <img align="left" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/instagram.svg" alt="instagram" width="20px" height="20px"/>
+  <img align="center" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/instagram.svg" alt="instagram" width="20px" height="20px"/>
 </a>
-</div>
-<div>
 <a href="https://www.facebook.com/profile.php?id=100011974931316&sk=about" target="_blank" rel="noopener noreferrer">
-  <img align="left" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/facebook.svg" alt="facebook" width="20px" height="20px"/>
+  <img align="center" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/facebook.svg" alt="facebook" width="20px" height="20px"/>
 </a>
-<div>
+</p>
 <br/>
 <br/>
-
-- 🔭 I’m currently working on React and Stack Applications
-- 🌱 I’m currently learning more about Full Stack Developer.
-- 📫 How to reach me: [Twitter - @santheesh_a](https://twitter.com/santheesh_a) 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/santheesh_a?style=social)](https://twitter.com/santheesh_a)
 [![Linkedin: imthepk](https://img.shields.io/badge/-santheesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santheesh-a-860a7614b/)](https://www.linkedin.com/in/santheesh-a-860a7614b/)
 [![GitHub iampawan](https://img.shields.io/github/followers/santheesh16?label=follow&style=social)](https://github.com/santheesh16)
 [![website](https://img.shields.io/badge/PortfolioWebsite-santheesh.live-2648ff?style=flat-square&logo=google-chrome)](https://santheesh.live/)
 
+### MySelf!!
+   I'm Santheesh A. I'm an enthusiastic and confident person and a passionate **FullStack** developer👨‍💻. I am currently working on various **static and dynamic** websites and host the websites on different  platforms like AWS, Heroku and Netlify. Understanding the data algorithm concept to gain a clear understanding and enhance my development skills.
 
-**Languages and Tools:**  
+### Languages and Tools:  
 
 <code><img height="20" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/skills/html-5.svg"></code>
 <code><img height="20" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/skills/css3.svg"></code>
@@ -60,10 +47,11 @@
 <code><img height="20" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/skills/java.svg"></code>
 
 <a href="https://github.com/santheesh16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santheesh16&theme=light&hide_langs_below=1" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santheesh16&layout=compact&theme=dark">
 </a>
 <a href="https://github.com/santheesh16">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=santheesh16&show_icons=true&theme=Gradient" alt="Santheesh's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=santheesh16&show_icons=true&theme=dark" alt="Santheesh's github stats"/>
 </a>
 
 <div align="center">
