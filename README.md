@@ -33,10 +33,10 @@
 [![GitHub iampawan](https://img.shields.io/github/followers/santheesh16?label=follow&style=social)](https://github.com/santheesh16)
 [![website](https://img.shields.io/badge/PortfolioWebsite-santheesh.live-2648ff?style=flat-square&logo=google-chrome)](https://santheesh.live/)
 
-### MySelf!!
-   I'm Santheesh A. I'm an enthusiastic and confident person and a passionate **FullStack** developer👨‍💻. I am currently working on various **static and dynamic** websites and host the websites on different  platforms like AWS, Heroku and Netlify. Understanding the data algorithm concept to gain a clear understanding and enhance my development skills.
+### MySelf💟!!
+   I'm Santheesh A. I'm an enthusiastic and confident person and a passionate **FullStack** developer👨‍💻. I am currently working on various **static and dynamic** websites and host the websites on different  platforms like AWS, Heroku and Netlify. Understanding the data structure and algorithm concept to gain a clear understanding and enhance my development skills.
 
-### Languages and Tools:  
+### Languages👨‍💻:  
 
 <code><img height="20" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/skills/html-5.svg"></code>
 <code><img height="20" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/skills/css3.svg"></code>
@@ -46,12 +46,36 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/skills/java.svg"></code>
 
+### ToolsKit🔨:
+<p>
+  <ul>
+    <li>Visual Studio</li>
+    <li>Eclipse</li>
+    <li>GitHub</li>
+    <li>Android Studio</li>
+  </ul>
+
+</p>
+<details>
+<summary> <strong> Get to know me better </strong> </summary>
+
+## ❤ Things I love
+- Everything Tech👩‍💻 and Science🔬. I am pretty much a geek Tech products and an hardcore enthusiast.
+- Hollywood Movies🎬 and Series like Sci-fi, Adventure etc📺.
+
+## 👷‍♂️ What I do ?
+- Currently I am working in some cool 😎 new projects web development, yeah most probably it is an Full-Stack development related ones.
+
+## Misc.
+- I am a productive person 🎮
+- Quite learn to new interesting things📚🐛
+- Upcoming book reader✍
+</details>
+
+### 📈 My Stats
 <a href="https://github.com/santheesh16">
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santheesh16&layout=compact&theme=dark">
-</a>
-<a href="https://github.com/santheesh16">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=santheesh16&show_icons=true&theme=dark" alt="Santheesh's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santheesh16&show_icons=true&theme=dark" alt="Santheesh's github stats"  width=420/>
 </a>
 
 <div align="center">
