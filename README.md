@@ -31,7 +31,7 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/santheesh_a?style=social)](https://twitter.com/santheesh_a)
 [![Linkedin: imthepk](https://img.shields.io/badge/-santheesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santheesh-a-860a7614b/)](https://www.linkedin.com/in/santheesh-a-860a7614b/)
 [![GitHub iampawan](https://img.shields.io/github/followers/santheesh16?label=follow&style=social)](https://github.com/santheesh16)
-[![website](https://img.shields.io/badge/PortfolioWebsite-santheesh.live-2648ff?style=flat-square&logo=google-chrome)](https://santheesh.live/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-santheesh.live-2648ff?style=flat-square&logo=google-chrome)](https://santheesh16.github.io/santheesh-live/)
 
 ### MySelf💟!!
    I'm Santheesh A. I'm an enthusiastic and confident person and a passionate **FullStack** developer👨‍💻. I am currently working on various **static and dynamic** websites and host the websites on different  platforms like AWS, Heroku and Netlify. Understanding the data structure and algorithm concept to gain a clear understanding and enhance my development skills.
