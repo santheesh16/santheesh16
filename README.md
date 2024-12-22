@@ -18,7 +18,7 @@
 <a href="https://twitter.com/santheesh_a" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/twitter.svg" alt="twitter" width="20px" height="20px"/>
 </a>
-<a href="https://www.instagram.com/swagy_boyoffi_/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/santheesh_16/" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://github.com/santheesh16/portfolio/blob/master/src/assets/img/contact/instagram.svg" alt="instagram" width="20px" height="20px"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=100011974931316&sk=about" target="_blank" rel="noopener noreferrer">
